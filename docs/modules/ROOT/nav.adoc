@@ -1,0 +1,8 @@
+* xref:index.adoc[Home]
+
+.Pages
+* xref:talks.adoc[Talks]
+* xref:projects.adoc[Projects]
+
+.Downloads
+* link:/ml4iot.pdf[buildingIoT 2024 Talk]

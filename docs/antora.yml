@@ -1,0 +1,6 @@
+name: fj
+title: ML4IoT
+version: 
+start_page: ROOT:index.adoc
+nav:
+- modules/ROOT/nav.adoc

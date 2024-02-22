@@ -1,0 +1,8 @@
+= ML4IoT
+
+Awesome ML 4 IoT
+
+== Talks
+
+xref:talks.adoc[]
+

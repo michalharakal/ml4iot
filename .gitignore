@@ -7,3 +7,5 @@ pickles
 __pycache__
 .data_cache
 .ipynb_checkpoints
+_public
+.cache

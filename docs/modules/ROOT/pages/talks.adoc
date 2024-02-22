@@ -1,0 +1,13 @@
+= Talks
+
+== German
+
+=== Blogs and Journals
+
+* https://www.inovex.de/de/blog/tinyml-komplexe-machine-learning-modelle-auf-eingebetteten-systemen/[TinyML: Komplexe Machine-Learning-Modelle auf eingebetteten Systemen]
+
+
+=== building IoT 2024
+
+* https://www.buildingiot.de/veranstaltung-21366-0-grundlagen-der-datenwissenschaft-und-kuenstlicher-intelligenz-fuer-iot-entwickler.html[Grundlagen der Datenwissenschaft und künstlicher Intelligenz für IoT-Entwickler]
+* https://www.buildingiot.de/veranstaltung-21382-0-ki-auf-mcus--wie-geht-das-richtig.html[KI auf MCUs – Wie geht das richtig?]
